@@ -1,6 +1,6 @@
 # Winter Clothes E-Commerce Website
 
-Welcome to the Winter Clothes E-Commerce Website repository! This project was created as part of the Code with Aarzoo tutorial. Follow the instructions below to get started:
+Welcome to the Winter Clothes E-Commerce Website repository! This project was created as part of the [Code with Aarzoo](https://www.youtube.com/@codewithaarzoo) tutorial. Follow the instructions below to get started:
 
 ## Getting Started
 
