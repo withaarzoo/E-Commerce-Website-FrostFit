@@ -1,7 +1,5 @@
 # Winter Clothes E-Commerce Website
 
-![Website Preview](/preview.png)
-
 Welcome to the Winter Clothes E-Commerce Website repository! This project was created as part of the Code with Aarzoo tutorial. Follow the instructions below to get started:
 
 ## Getting Started
@@ -39,3 +37,6 @@ Watch the full tutorial on YouTube: [Winter Clothes E-Commerce Website Tutorial]
 - Threads: [https://www.threads.net/@withaarzoo](https://www.threads.net/@withaarzoo)
 
 Enjoy building your winter-themed e-commerce website! 🛍️❄️
+
+## Preview
+![Winter Clothes E-Commerce Website](https://github.com/Aarzoo75/E-Commerce-Website-FrostFit/assets/59678435/5c390675-bc87-40c0-995a-7a4164ab625d)
